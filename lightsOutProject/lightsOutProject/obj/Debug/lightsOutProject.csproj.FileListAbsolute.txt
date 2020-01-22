@@ -1,0 +1,11 @@
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\bin\Debug\lightsOutProject.exe.config
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\bin\Debug\lightsOutProject.exe
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\bin\Debug\lightsOutProject.pdb
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.csprojAssemblyReference.cache
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.Form1.resources
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.Properties.Resources.resources
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.csproj.GenerateResource.cache
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.csproj.CoreCompileInputs.cache
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.exe
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.pdb
+C:\Users\12704\source\repos\lightsOutProject\lightsOutProject\obj\Debug\lightsOutProject.Form2.resources
